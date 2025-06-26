@@ -1,0 +1,29 @@
+This Strategy involves going short/long when the price is 40 ticks above/below the moving average and then closing the position when price crosses the moving average
+
+
+--- Running Analysis for 20-Period Moving Average ---
+--- Strategy Results ---
+Total Trades: 43
+Win Rate: 62.79%
+Total Profit/Loss: -95.47 points
+Average Profit/Loss per Trade: -2.22 points
+Average Time in Trade: 0 days 02:51:51.627906976
+------------------------
+
+--- Running Analysis for 50-Period Moving Average ---
+--- Strategy Results ---
+Total Trades: 50
+Win Rate: 68.00%
+Total Profit/Loss: -207.51 points
+Average Profit/Loss per Trade: -4.15 points
+Average Time in Trade: 0 days 10:51:36
+------------------------
+
+--- Running Analysis for 100-Period Moving Average ---
+--- Strategy Results ---
+Total Trades: 43
+Win Rate: 67.44%
+Total Profit/Loss: -59.52 points
+Average Profit/Loss per Trade: -1.38 points
+Average Time in Trade: 0 days 18:33:15.348837209
+------------------------
