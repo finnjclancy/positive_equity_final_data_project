@@ -1,0 +1,70 @@
+------------------------------------------------------
+       Backtest Results for Z-Score: 1.0
+------------------------------------------------------
+Total PnL:                             2774.12 points
+Total Trades:                              431
+Win Percentage:                         81.21 %
+Average Winner:                          14.08 points
+Average Loser:                          -26.57 points
+Average Time in Trade:    0 days 02:38:26.728538283
+------------------------------------------------------
+Step 4: Generating and saving equity curve...
+Equity curve saved as 'equity_curve_zscore_1.0.png'
+
+Step 2: Running backtest for Z-Score entry at +/- 1.5...
+Step 3: Analyzing and printing results...
+------------------------------------------------------
+       Backtest Results for Z-Score: 1.5
+------------------------------------------------------
+Total PnL:                             1911.00 points
+Total Trades:                              304
+Win Percentage:                         79.61 %
+Average Winner:                          15.19 points
+Average Loser:                          -28.47 points
+Average Time in Trade:    0 days 02:49:08.684210526
+------------------------------------------------------
+Step 4: Generating and saving equity curve...
+Equity curve saved as 'equity_curve_zscore_1.5.png'
+
+Step 2: Running backtest for Z-Score entry at +/- 2.0...
+Step 3: Analyzing and printing results...
+------------------------------------------------------
+       Backtest Results for Z-Score: 2.0
+------------------------------------------------------
+Total PnL:                             1513.07 points
+Total Trades:                              205
+Win Percentage:                         78.54 %
+Average Winner:                          18.32 points
+Average Loser:                          -32.63 points
+Average Time in Trade:    0 days 02:38:17.560975609
+------------------------------------------------------
+Step 4: Generating and saving equity curve...
+Equity curve saved as 'equity_curve_zscore_2.0.png'
+
+Step 2: Running backtest for Z-Score entry at +/- 2.5...
+Step 3: Analyzing and printing results...
+------------------------------------------------------
+       Backtest Results for Z-Score: 2.5
+------------------------------------------------------
+Total PnL:                              851.38 points
+Total Trades:                               99
+Win Percentage:                         77.78 %
+Average Winner:                          21.82 points
+Average Loser:                          -37.67 points
+Average Time in Trade:    0 days 02:09:47.878787878
+------------------------------------------------------
+Step 4: Generating and saving equity curve...
+Equity curve saved as 'equity_curve_zscore_2.5.png'
+
+Step 2: Running backtest for Z-Score entry at +/- 3.0...
+Step 3: Analyzing and printing results...
+------------------------------------------------------
+       Backtest Results for Z-Score: 3.0
+------------------------------------------------------
+Total PnL:                              215.53 points
+Total Trades:                               39
+Win Percentage:                         71.79 %
+Average Winner:                          23.76 points
+Average Loser:                          -40.88 points
+Average Time in Trade:    0 days 02:36:55.384615384
+------------------------------------------------------
