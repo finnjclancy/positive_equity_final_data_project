@@ -14,11 +14,15 @@ The Excel sheet containing the copy and pasted data can be found here - https://
 ## The 'Output' directory contains content that was printed to the terminal and graphs produced after running the scripts in the 'Scripts' folder.
 - The 'Part_1_Data_and_Spread_Charts' directory has graphs showing the time series graphs of the FDXM, FESX and the spread.
 - The 'Part_2_Correlation' directory has the correlation over time and a table containing the correlation over the 3 equally split time periods 
-- The 'Part_3_Spread_Analysis has backtests for the Breakout and Mean Reversion strategies
+- The 'Part_3_Spread_Analysis' has backtests for the Breakout and Mean Reversion strategies
     - For both strategies there are results for the following:
         - Entering when price deviates 40 points from a moving average and then closing when price crosses the moving average
         - Entering when price deviates 40 points from a moving average and then closing when price crosses the moving average and closing after a max time
         - Entering when price deviates 40 points from a moving average and only closing after a certain amount of time has passed
+- The 'Part_4_Z_Score_Deviation' contains 3 folders:
+    - A folder showing the best strategy output
+    - Mean Reversion folder that shows the output for the Z Score performance
+    - Breakout Trading folder that shows the output for the breakout strategy
 
 ## The 'Scripts' directory contains python files that did data analysis
 - There are 4 sub directories:
