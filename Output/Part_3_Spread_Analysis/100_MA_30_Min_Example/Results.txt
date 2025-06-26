@@ -1,0 +1,10 @@
+--- Strategy Performance Summary ---
+------------------------------------------------------
+Total PnL:                               91.83 points
+Total Trades:                              555
+Win Percentage:                         49.55 %
+Average Winner:                          10.86 points
+Average Loser:                          -10.33 points
+Average Time in Trade:    0 days 00:52:14.054054054
+Trades Closed by Time-Out: 551 (99.3%)
+------------------------------------------------------
