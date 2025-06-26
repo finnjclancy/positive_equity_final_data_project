@@ -1,0 +1,32 @@
+==================================================
+--- Testing Breakout Strategy for MA=20 ---       
+==================================================
+--- Breakout Strategy Results ---
+Total Completed Trades: 43        
+Win Rate: 37.21%
+Total Profit/Loss: 95.47 points   
+Average P/L per Trade: 2.22 points
+Average Time in Trade: 0 days 02:51:51.627906976
+-------------------------
+
+==================================================
+--- Testing Breakout Strategy for MA=50 ---
+==================================================
+--- Breakout Strategy Results ---
+Total Completed Trades: 50
+Win Rate: 32.00%
+Total Profit/Loss: 207.51 points
+Average P/L per Trade: 4.15 points
+Average Time in Trade: 0 days 10:51:36
+-------------------------
+
+==================================================
+--- Testing Breakout Strategy for MA=100 ---
+==================================================
+--- Breakout Strategy Results ---
+Total Completed Trades: 43
+Win Rate: 32.56%
+Total Profit/Loss: 59.52 points
+Average P/L per Trade: 1.38 points
+Average Time in Trade: 0 days 18:33:15.348837209
+-------------------------

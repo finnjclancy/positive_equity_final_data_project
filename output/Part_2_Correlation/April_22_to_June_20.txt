@@ -1,0 +1,14 @@
+--- Analyzing: Segment 1 ---
+The correlation between FESX and FDXM is: 0.9826
+
+
+--- Analyzing: Segment 2 ---
+The correlation between FESX and FDXM is: 0.6067
+
+
+--- Analyzing: Segment 3 ---
+The correlation between FESX and FDXM is: 0.9594
+
+
+--- Analyzing: Full Dataset ---
+The correlation between FESX and FDXM is: 0.9370

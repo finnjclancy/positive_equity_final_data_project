@@ -1,0 +1,131 @@
+==================================================
+--- Testing MA=20 | Fixed Hold Time=6 Hours ---   
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 36
+Win Rate: 44.44%
+Total Profit/Loss: -320.26 points
+Average P/L per Trade: -8.90 points
+Average Time in Trade: 0 days 06:41:40 (Target: 6 Hours)
+-------------------------
+
+==================================================
+--- Testing MA=20 | Fixed Hold Time=3 Hours ---   
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 43
+Win Rate: 44.19%
+Total Profit/Loss: -475.94 points
+Average P/L per Trade: -11.07 points
+Average Time in Trade: 0 days 03:05:48.837209302 (Target: 3 Hours)
+-------------------------
+
+==================================================
+--- Testing MA=20 | Fixed Hold Time=1 Hour ---    
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 78
+Win Rate: 46.15%
+Total Profit/Loss: -227.12 points
+Average P/L per Trade: -2.91 points
+Average Time in Trade: 0 days 01:00:00 (Target: 1 Hour)
+-------------------------
+
+==================================================
+--- Testing MA=20 | Fixed Hold Time=30 Mins ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 117
+Win Rate: 42.74%
+Total Profit/Loss: -72.84 points
+Average P/L per Trade: -0.62 points
+Average Time in Trade: 0 days 00:30:00 (Target: 30 Mins)
+-------------------------
+
+==================================================
+--- Testing MA=50 | Fixed Hold Time=6 Hours ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 63
+Win Rate: 47.62%
+Total Profit/Loss: -290.05 points
+Average P/L per Trade: -4.60 points
+Average Time in Trade: 0 days 09:08:34.285714285 (Target: 6 Hours)
+-------------------------
+
+==================================================
+--- Testing MA=50 | Fixed Hold Time=3 Hours ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 90
+Win Rate: 44.44%
+Total Profit/Loss: -629.06 points
+Average P/L per Trade: -6.99 points
+Average Time in Trade: 0 days 03:13:46.666666666 (Target: 3 Hours)
+-------------------------
+
+==================================================
+--- Testing MA=50 | Fixed Hold Time=1 Hour ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 186
+Win Rate: 50.54%
+Total Profit/Loss: -238.74 points
+Average P/L per Trade: -1.28 points
+Average Time in Trade: 0 days 01:00:00 (Target: 1 Hour)
+-------------------------
+
+==================================================
+--- Testing MA=50 | Fixed Hold Time=30 Mins ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 311
+Win Rate: 48.87%
+Total Profit/Loss: -82.65 points
+Average P/L per Trade: -0.27 points
+Average Time in Trade: 0 days 00:30:46.302250803 (Target: 30 Mins)
+-------------------------
+
+==================================================
+--- Testing MA=100 | Fixed Hold Time=6 Hours ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 78
+Win Rate: 47.44%
+Total Profit/Loss: -22.29 points
+Average P/L per Trade: -0.29 points
+Average Time in Trade: 0 days 08:55:15.384615384 (Target: 6 Hours)
+-------------------------
+
+==================================================
+--- Testing MA=100 | Fixed Hold Time=3 Hours ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 126
+Win Rate: 44.44%
+Total Profit/Loss: -264.14 points
+Average P/L per Trade: -2.10 points
+Average Time in Trade: 0 days 04:42:13.333333333 (Target: 3 Hours)
+-------------------------
+
+==================================================
+--- Testing MA=100 | Fixed Hold Time=1 Hour ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 300
+Win Rate: 51.67%
+Total Profit/Loss: 204.65 points
+Average P/L per Trade: 0.68 points
+Average Time in Trade: 0 days 01:30:50 (Target: 1 Hour)
+-------------------------
+
+==================================================
+--- Testing MA=100 | Fixed Hold Time=30 Mins ---
+==================================================
+--- Backtest Results ---
+Total Completed Trades: 555
+Win Rate: 49.55%
+Total Profit/Loss: 122.27 points
+Average P/L per Trade: 0.22 points
+Average Time in Trade: 0 days 00:52:18.378378378 (Target: 30 Mins)
+-------------------------

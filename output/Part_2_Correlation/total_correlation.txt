@@ -1,0 +1,18 @@
+Output for correlation analysis.py
+
+The 10 min data for FESX and FDXM is split into 3 equal length periods 
+
+--- Analyzing: Segment 1 ---
+The correlation between FESX and FDXM is: 0.9654
+
+
+--- Analyzing: Segment 2 ---
+The correlation between FESX and FDXM is: 0.9911
+
+
+--- Analyzing: Segment 3 ---
+The correlation between FESX and FDXM is: 0.8920
+
+
+--- Analyzing: Full Dataset ---
+The correlation between FESX and FDXM is: 0.9370
