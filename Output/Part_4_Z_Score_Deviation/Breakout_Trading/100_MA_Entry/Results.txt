@@ -1,70 +1,70 @@
 ------------------------------------------------------
-     BREAKOUT Backtest Results for Z-Score: 1.0
+       Backtest Results for Z-Score: 1.0              
 ------------------------------------------------------
-Total PnL:                             -476.13 points
-Total Trades:                              100
-Win Percentage:                         21.00 %
-Average Winner:                          67.60 points
-Average Loser:                          -24.00 points
+Total PnL:                              476.13 points 
+Total Trades:                              100        
+Win Percentage:                         79.00 %       
+Average Winner:                          24.00 points 
+Average Loser:                          -67.60 points 
 Average Time in Trade:    0 days 10:44:24
 ------------------------------------------------------
 Step 4: Generating and saving equity curve...
-Equity curve saved as 'equity_curve_zscore_breakout_1.0.png'
+Equity curve saved as 'equity_curve_zscore_1.0.png'
 
-Step 2: Running BREAKOUT backtest for Z-Score entry at +/- 1.5...
+Step 2: Running backtest for Z-Score entry at +/- 1.5...
 Step 3: Analyzing and printing results...
 ------------------------------------------------------
-     BREAKOUT Backtest Results for Z-Score: 1.5
+       Backtest Results for Z-Score: 1.5
 ------------------------------------------------------
-Total PnL:                             -155.91 points
+Total PnL:                              155.91 points
 Total Trades:                               72
-Win Percentage:                         22.22 %
-Average Winner:                          81.71 points
-Average Loser:                          -26.13 points
+Win Percentage:                         77.78 %
+Average Winner:                          26.13 points
+Average Loser:                          -81.71 points
 Average Time in Trade:    0 days 13:44:01.666666666
 ------------------------------------------------------
 Step 4: Generating and saving equity curve...
-Equity curve saved as 'equity_curve_zscore_breakout_1.5.png'
+Equity curve saved as 'equity_curve_zscore_1.5.png'
 
-Step 2: Running BREAKOUT backtest for Z-Score entry at +/- 2.0...
+Step 2: Running backtest for Z-Score entry at +/- 2.0...
 Step 3: Analyzing and printing results...
 ------------------------------------------------------
-     BREAKOUT Backtest Results for Z-Score: 2.0
+       Backtest Results for Z-Score: 2.0
 ------------------------------------------------------
-Total PnL:                             -133.19 points
+Total PnL:                              133.19 points
 Total Trades:                               55
-Win Percentage:                         27.27 %
-Average Winner:                          81.76 points
-Average Loser:                          -33.99 points
+Win Percentage:                         72.73 %
+Average Winner:                          33.99 points
+Average Loser:                          -81.76 points
 Average Time in Trade:    0 days 14:37:49.090909090
 ------------------------------------------------------
 Step 4: Generating and saving equity curve...
-Equity curve saved as 'equity_curve_zscore_breakout_2.0.png'
+Equity curve saved as 'equity_curve_zscore_2.0.png'
 
-Step 2: Running BREAKOUT backtest for Z-Score entry at +/- 2.5...
+Step 2: Running backtest for Z-Score entry at +/- 2.5...
 Step 3: Analyzing and printing results...
 ------------------------------------------------------
-     BREAKOUT Backtest Results for Z-Score: 2.5
+       Backtest Results for Z-Score: 2.5
 ------------------------------------------------------
-Total PnL:                             -132.81 points
+Total PnL:                              132.81 points
 Total Trades:                               45
-Win Percentage:                         28.89 %
-Average Winner:                          84.95 points
-Average Loser:                          -38.66 points
+Win Percentage:                         71.11 %
+Average Winner:                          38.66 points
+Average Loser:                          -84.95 points
 Average Time in Trade:    0 days 15:49:33.333333333
 ------------------------------------------------------
 Step 4: Generating and saving equity curve...
-Equity curve saved as 'equity_curve_zscore_breakout_2.5.png'
+Equity curve saved as 'equity_curve_zscore_2.5.png'
 
-Step 2: Running BREAKOUT backtest for Z-Score entry at +/- 3.0...
+Step 2: Running backtest for Z-Score entry at +/- 3.0...
 Step 3: Analyzing and printing results...
 ------------------------------------------------------
-     BREAKOUT Backtest Results for Z-Score: 3.0
+       Backtest Results for Z-Score: 3.0
 ------------------------------------------------------
-Total PnL:                               33.84 points
+Total PnL:                              -33.84 points
 Total Trades:                               28
-Win Percentage:                         35.71 %
-Average Winner:                          81.54 points
-Average Loser:                          -43.42 points
+Win Percentage:                         64.29 %
+Average Winner:                          43.42 points
+Average Loser:                          -81.54 points
 Average Time in Trade:    0 days 18:10:00
 ------------------------------------------------------
